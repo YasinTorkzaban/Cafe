@@ -1,0 +1,22 @@
+:root{
+    --redcolor: rgb(220, 59, 59);
+    --whitecolor: rgb(221, 216, 216);
+}
+body{
+    font-size: 100%;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+}
+li{
+    list-style-type: none;
+}
+.center{
+    justify-content: center;
+    align-items: center;
+}
